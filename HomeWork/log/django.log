@@ -1,0 +1,35 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+Not Found: /apple-touch-icon-120x120-precomposed.png
+"GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 2364
+Not Found: /apple-touch-icon-120x120.png
+"GET /apple-touch-icon-120x120.png HTTP/1.1" 404 2328
+Not Found: /apple-touch-icon-precomposed.png
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2340
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2277
+Not Found: /apple-touch-icon-120x120-precomposed.png
+"GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 2364
+Not Found: /apple-touch-icon-120x120.png
+"GET /apple-touch-icon-120x120.png HTTP/1.1" 404 2328
+Not Found: /apple-touch-icon-precomposed.png
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2340
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2277
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 398
