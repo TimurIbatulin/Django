@@ -8,6 +8,9 @@ class Client(models.Model):
     adress = models.TextField()
     Clientregistration_date = models.DateTimeField()
 
+    def __str__(self):
+        return f'Client: {self.name}, email: {self.email}, telefon: {self.telefon_number}'
+
 
 class Product(models.Model):
     product_name = models.CharField(max_length=100)
